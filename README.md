@@ -24,7 +24,7 @@
 
 
 ## 🚩 News
-
+- [2025/06/13] We will release part of the dataset and the corresponding processing code in the near future.
 - [2025/06/13] Upload the Demo videos for CAD-GPT on the project page.
 - [2024/12/27] Upload paper and init project.
 
