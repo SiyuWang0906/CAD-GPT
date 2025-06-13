@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <h2> <a href="https://arxiv.org/abs/2405.20853">CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs</a></h2>
+    <h2> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32849">CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs</a></h2>
 
 <p align="center">
   <a href="https://openiwin.github.io/CAD-GPT/">Project Page</a> •
