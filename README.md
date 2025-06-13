@@ -1,4 +1,4 @@
-<img src="./assets/icon_cadgpt.png" alt="CAD-GPT" width="120"/>
+<!-- <img src="./assets/icon_cadgpt.png" alt="CAD-GPT" width="120"/> -->
 
 <img width="1194" alt="pipeline" src="./assets/rendered_all_good_color_2.png">
 <div align= "center">
@@ -7,7 +7,13 @@
 </div>
 
 <div align="center">
-    <h2> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32849">CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs</a></h2>
+    <img src="./assets/icon_cadgpt.png" alt="CAD-GPT Logo" width="100"/><br>
+    <h2>
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32849">
+            CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs
+        </a>
+    </h2>
+</div>
 
 <p align="center">
   <a href="https://openiwin.github.io/CAD-GPT/">Project Page</a> •
