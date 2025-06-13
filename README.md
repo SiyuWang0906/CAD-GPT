@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://openiwin.github.io/CAD-GPT/">Project Page</a> •
+  <a href="https://huggingface.co/datasets/Ysjtu/CAD-GPT">Datasets on HuggingFace</a> •
   <a href="https://arxiv.org/abs/2412.19663">Arxiv Paper</a> •
   <a href="#-citation">Citation
 </p>
