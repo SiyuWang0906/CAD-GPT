@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <img src="./assets/icon_cadgpt.png" alt="CAD-GPT Logo" width="100"/><br>
+    <img src="./assets/icon_cadgpt.png" alt="CAD-GPT Logo" width="400"/><br>
     <h2>
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32849">
             CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs
