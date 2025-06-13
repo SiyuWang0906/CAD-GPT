@@ -1,3 +1,5 @@
+<img src="./assets/icon_cadgpt.png" alt="CAD-GPT" width="120"/>
+
 <img width="1194" alt="pipeline" src="./assets/rendered_all_good_color_2.png">
 <div align= "center">
     <h1>[AAAI 2025 Paper] Official Repo for CAD-GPT</h1>
