@@ -27,7 +27,7 @@
 ## 🚩 News
 - [2025/06/13] We will release part of the dataset and the corresponding processing code in the near future.
 - [2025/06/13] Upload the Demo videos for CAD-GPT on the project page.
-- [2025/06/13] We were invited as the opening guest speakers to deliver an oral presentation at the [Large Model X Entrepreneurship Salon(大模型X沙龙-工业设计专场)](https://mp.weixin.qq.com/s/5VmVIapYKoW4WIFF_MqKjg) organized by [TusStar(启迪之星上海)](https://www.tusstar.com/).
+- [2025/06/10] We were invited as the opening guest speakers to deliver an oral presentation at the [Large Model X Entrepreneurship Salon(大模型X沙龙-工业设计专场)](https://mp.weixin.qq.com/s/5VmVIapYKoW4WIFF_MqKjg) organized by [TusStar(启迪之星上海)](https://www.tusstar.com/).
 - [2024/12/27] Upload paper and init project.
 
 
