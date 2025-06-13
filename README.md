@@ -1,4 +1,4 @@
-!--     <img src="./assets/rendered_all_good_color_2.png" width="170px"> -->
+<img width="1194" alt="pipeline" src="./assets/rendered_all_good_color_2.png">
 <div align= "center">
     <h1> Official repo for CAD-GPT</h1>
 
